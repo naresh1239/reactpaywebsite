@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactpaywebsite/static/css/main.19f37279.chunk.css",
-    "main.js": "/reactpaywebsite/static/js/main.0a3a996a.chunk.js",
-    "main.js.map": "/reactpaywebsite/static/js/main.0a3a996a.chunk.js.map",
-    "runtime-main.js": "/reactpaywebsite/static/js/runtime-main.6480c7a7.js",
-    "runtime-main.js.map": "/reactpaywebsite/static/js/runtime-main.6480c7a7.js.map",
-    "static/js/2.b3a5bd0d.chunk.js": "/reactpaywebsite/static/js/2.b3a5bd0d.chunk.js",
-    "static/js/2.b3a5bd0d.chunk.js.map": "/reactpaywebsite/static/js/2.b3a5bd0d.chunk.js.map",
-    "index.html": "/reactpaywebsite/index.html",
-    "static/css/main.19f37279.chunk.css.map": "/reactpaywebsite/static/css/main.19f37279.chunk.css.map",
-    "static/js/2.b3a5bd0d.chunk.js.LICENSE.txt": "/reactpaywebsite/static/js/2.b3a5bd0d.chunk.js.LICENSE.txt",
-    "static/media/for-2.812560f4.jpg": "/reactpaywebsite/static/media/for-2.812560f4.jpg",
-    "static/media/for-3.c1eb7ad5.jpg": "/reactpaywebsite/static/media/for-3.c1eb7ad5.jpg",
-    "static/media/for-4.fad85633.jpg": "/reactpaywebsite/static/media/for-4.fad85633.jpg",
-    "static/media/pay.9ecef36a.jpg": "/reactpaywebsite/static/media/pay.9ecef36a.jpg"
+    "main.css": "/newapp/static/css/main.25a1119c.chunk.css",
+    "main.js": "/newapp/static/js/main.886852a5.chunk.js",
+    "main.js.map": "/newapp/static/js/main.886852a5.chunk.js.map",
+    "runtime-main.js": "/newapp/static/js/runtime-main.2864036c.js",
+    "runtime-main.js.map": "/newapp/static/js/runtime-main.2864036c.js.map",
+    "static/js/2.9be96d37.chunk.js": "/newapp/static/js/2.9be96d37.chunk.js",
+    "static/js/2.9be96d37.chunk.js.map": "/newapp/static/js/2.9be96d37.chunk.js.map",
+    "index.html": "/newapp/index.html",
+    "static/css/main.25a1119c.chunk.css.map": "/newapp/static/css/main.25a1119c.chunk.css.map",
+    "static/js/2.9be96d37.chunk.js.LICENSE.txt": "/newapp/static/js/2.9be96d37.chunk.js.LICENSE.txt",
+    "static/media/for-2.812560f4.jpg": "/newapp/static/media/for-2.812560f4.jpg",
+    "static/media/for-3.c1eb7ad5.jpg": "/newapp/static/media/for-3.c1eb7ad5.jpg",
+    "static/media/for-4.fad85633.jpg": "/newapp/static/media/for-4.fad85633.jpg",
+    "static/media/pay.9ecef36a.jpg": "/newapp/static/media/pay.9ecef36a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6480c7a7.js",
-    "static/js/2.b3a5bd0d.chunk.js",
-    "static/css/main.19f37279.chunk.css",
-    "static/js/main.0a3a996a.chunk.js"
+    "static/js/runtime-main.2864036c.js",
+    "static/js/2.9be96d37.chunk.js",
+    "static/css/main.25a1119c.chunk.css",
+    "static/js/main.886852a5.chunk.js"
   ]
 }
