@@ -1,6 +1,6 @@
 import React from "react";
 import Home from "./Home";
-import { Routes, Route } from "react-router-dom";
+import {Route,Switch } from "react-router-dom";
 import About from "./pages/About";
 import Service from "./pages/Service";
 import Contactme from "./pages/Contactme";
@@ -10,12 +10,12 @@ function App() {
   return (
 <>
 
-<Routes>
-  <Route path="/" element={<Home/>}></Route>
-  <Route path="/About" element={<About/>}></Route>
-  <Route path="/Service" element={<Service/>}></Route>
-  <Route path="/Contact" element={<Contactme/>}></Route>
-</Routes>
+<Switch>
+  <Route path="/" exact component={Home}></Route>
+  <Route path="/About" component={About}></Route>
+  <Route path="/Service" component={Service}></Route>
+  <Route path="/Contact" component={Contactme}></Route>
+</Switch>
 </>
   );
 }
