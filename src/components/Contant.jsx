@@ -92,4 +92,4 @@ if(res){
     )
 }
 
-export default Contant
+export default Contant;

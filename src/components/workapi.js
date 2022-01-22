@@ -1,4 +1,4 @@
-const workapi =[
+const workapi = [
     {
         id: 1,
         logo: "bi bi-download icon",

@@ -4,7 +4,7 @@ import Main from './components/Main';
 import Work from './components/Work';
 import Use from './components/Use';
 import Sendmoney from "./components/Sendmoney";
-import Contant from "./components/Contant";
+// import Contant from "./components/Contant";
 import Footer from "./components/Footer";
 
 function Home() {
@@ -15,7 +15,7 @@ function Home() {
 <Work/>
 <Use/>
 <Sendmoney/>
-<Contant/>
+{/* <Contant/> */}
 <Footer/>
 </>
   );
